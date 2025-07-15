@@ -1,0 +1,16 @@
+# Ignore the file that stores user expenses
+expenses.txt
+
+# Ignore Python bytecode files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
